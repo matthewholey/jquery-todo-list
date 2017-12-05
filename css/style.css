@@ -1,0 +1,70 @@
+body {
+	text-align: center;
+	font-family: sans-serif;
+	background-color: #ffffbb;
+}
+h1 {
+
+}
+div {
+
+}
+.formDiv {
+	display: inline-block;
+	max-width: 100%;
+	background-color: #ffff44;
+	/*box-sizing: border-box;*/
+	padding: 4px;
+	border: 2px solid grey;
+	border-radius: 5px;
+}
+form {
+
+}
+.listTitle {
+	font-size: 22px;
+	width: 250px;
+	max-width: 75%;
+	margin: 20px 5px 30px 5px;
+	padding: 10px 5px;
+	box-sizing: border-box;
+	border-radius: 15px;
+}
+.listAddSpan {
+	width: 100%;
+}
+.listHere {
+	font-size: 18px;
+	width: 85%;
+	height: 100%;
+	margin: 0 5px;
+	padding: 10px 5px;
+	box-sizing: border-box;
+	border-radius: 15px;
+}
+.addItem {
+	font-size: 36px;
+	padding: 0 6px;
+	background-color: #ffff44;
+	box-sizing: border-box;
+	border-radius: 20px;
+}
+ul {
+	text-align: left;
+	margin: 10px 0;
+	list-style-type: none;
+}
+li {
+	width: 100%;
+}
+.liSpan {
+	
+}
+.checkBox {
+
+}
+.listedItems {
+	font-size: 12px;
+	background-color: transparent;
+	border: 0 solid transparent;
+}
