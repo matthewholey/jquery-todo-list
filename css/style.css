@@ -1,25 +1,18 @@
 body {
+	display: block;
 	text-align: center;
 	font-family: sans-serif;
 	background-color: #ffffbb;
 }
-h1 {
-
-}
-div {
-
-}
 .formDiv {
 	display: inline-block;
 	max-width: 100%;
+	min-height: 400px;
 	background-color: #ffff44;
-	/*box-sizing: border-box;*/
+	box-sizing: border-box;
 	padding: 4px;
 	border: 2px solid grey;
 	border-radius: 5px;
-}
-form {
-
 }
 .listTitle {
 	font-size: 22px;
@@ -57,14 +50,10 @@ ul {
 li {
 	width: 100%;
 }
-.liSpan {
-	
-}
-.checkBox {
-
-}
-.listedItems {
-	font-size: 12px;
-	background-color: transparent;
-	border: 0 solid transparent;
+.buttonX {
+	padding: 1px 2px;
+	margin-right: 10px;
+	background-color: #ffff44;
+	box-sizing: border-box;
+	border-radius: 20px;
 }
